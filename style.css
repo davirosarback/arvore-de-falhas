@@ -11,9 +11,13 @@
     text-align: start;
     font-weight: 600;
 }
+.btn-collapse:hover{
+    background-color: rgb(216, 233, 248); 
+}
 .item-collapse{
     margin: 4px;
 }
+
 .item-collapse-interno{
     margin: 4px 4px 0px 12px;
 }
