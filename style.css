@@ -1,7 +1,9 @@
+
 a{
     text-decoration: none;
     color: black;
   }
+
 .btn-collapse{
 border: none;
 border-top-left-radius: 4px;
@@ -42,5 +44,17 @@ margin: 4px 4px 0px 12px;
   border-bottom: 4px solid #05a234;
   padding: 8px;
   border-radius: 4px;
+  
+}
+
+/* Página Inicial */
+
+.header-index{
+  height: 100px;
+  background-color: #05a234;
+}
+.footer-index{
+  height: 100px;
+  background-color: #05a234;
   
 }
