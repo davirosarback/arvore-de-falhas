@@ -13,10 +13,34 @@ margin: 4px 4px 0px 0px;
 width: 100%;
 text-align: start;
 font-weight: 600;
+display: flex;
+align-items: center;
+justify-content: space-between;
 }
 .item-collapse{
 margin: 4px; 
 }
 .item-collapse-interno{
 margin: 4px 4px 0px 12px;
+}
+.bi-caret-down{
+  
+}
+.bi-caret-down:hover{
+  background-color: #05a234;
+}
+.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.header-item{
+  color: black;
+  text-decoration: none;
+  margin: 0px 40px;
+  border-bottom: 4px solid #05a234;
+  padding: 8px;
+  border-radius: 4px;
+  
 }
